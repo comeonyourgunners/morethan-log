@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "comeonyourgunners",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/gromit.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Student",
     bio: "I develop everything using node.",
     email: "coyg.py@gmail.com",
@@ -50,7 +50,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: "morethanmin/morethan-log",
       "issue-term": "og:title",
