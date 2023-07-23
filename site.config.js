@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "I develop everything using node.",
     email: "coyg.py@gmail.com",
     linkedin: "",
-    github: "https://github.com/comeonyourgunners",
+    github: "comeonyourgunners",
     instagram: "",
   },
   projects: [
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "comeonyourgunners",
+    title: "Notion-log",
     description: "welcome to morethan-log!",
   },
 
